@@ -1,6 +1,6 @@
 # Hi, I'm Max 👋
 
-### Junior Python Backend Developer
+### Python Backend Developer
 
 I build backend applications and REST APIs using Python, FastAPI, and Django.
 
