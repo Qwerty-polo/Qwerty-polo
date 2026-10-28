@@ -38,7 +38,7 @@ Backend system for a leisure complex with services, bookings, availability manag
 
 **Tech:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pydantic, Redis, Celery, Docker
 
-🔗 [View repository](https://github.com/Qwerty-polo/VertolitProject)
+🔗 [View website](https://vertolit.pp.ua/)
 
 ---
 
